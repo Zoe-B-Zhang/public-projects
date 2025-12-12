@@ -1,0 +1,7 @@
+{
+  "name": "Travel Route Recorder",
+  "description": "Transforms text itineraries into interactive maps with visual tracking. Powered by Google Gemini 2.5 Flash for intelligent geocoding and Imagen 3 for generating custom, artistic 'passport stamps' and map icons, it allows users to gamify their travel history and export personalized visual memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
