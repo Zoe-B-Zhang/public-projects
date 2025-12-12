@@ -23,6 +23,7 @@ Powered by **Google Gemini 2.5 Flash** and **Imagen 3**, this tool intelligently
 - **Maps:** Leaflet.js
 - **AI:** Google GenAI SDK (Gemini 2.5 Flash & Imagen 3)
 
+![Interface](UI-all.jpg)
 ---
 
 # Run and deploy your AI Studio app
